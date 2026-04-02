@@ -57,6 +57,19 @@ repopilot-gitagent/
     └── debug-helper/
         └── SKILL.md
 
+   my-agent/
+├── agent.yaml
+├── SOUL.md
+├── RULES.md
+├── skills/
+│   ├── summarize-repo/
+│   │   └── SKILL.md
+│   ├── generate-readme/
+│   │   └── SKILL.md
+│   └── debug-helper/
+│       └── SKILL.md
+└── README.md     
+
 ## How to Run Locally
 1. Clone the repository
 2. Run `npm install`
