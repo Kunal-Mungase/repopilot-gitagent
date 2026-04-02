@@ -43,19 +43,33 @@ Reads errors and suggests likely fixes in a clear way.
 
 ## Project Structure
 repopilot-gitagent/
+
 ├── agent.yaml
+
 ├── SOUL.md
+
 ├── RULES.md
+
 ├── README.md
+
 ├── package.json
+
 ├── demo.js
+
 └── skills/
+
     ├── summarize-repo/
+
     │   └── SKILL.md
+
     ├── generate-readme/
+
     │   └── SKILL.md
+
     └── debug-helper/
+
         └── SKILL.md
+
         
 ## How to Run Locally
 1. Clone the repository
