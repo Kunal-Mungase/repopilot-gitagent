@@ -1,0 +1,11 @@
+console.log("RepoPilot – Git Repo Understanding Agent");
+console.log("This project follows the GitAgent standard.");
+console.log("Core files:");
+console.log("- agent.yaml");
+console.log("- SOUL.md");
+console.log("- RULES.md");
+console.log("- skills/summarize-repo/SKILL.md");
+console.log("- skills/generate-readme/SKILL.md");
+console.log("- skills/debug-helper/SKILL.md");
+console.log("Runtime: gitclaw");
+console.log("This agent helps summarize repositories, generate README files, and debug common issues.");

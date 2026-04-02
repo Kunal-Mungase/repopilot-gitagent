@@ -1,0 +1,14 @@
+{
+  "name": "repopilot-gitagent",
+  "version": "0.1.0",
+  "description": "A GitAgent hackathon project for repo understanding, README generation, and debugging help.",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "check": "ls -R .",
+    "show-agent": "cat agent.yaml && echo '\n---\n' && cat SOUL.md && echo '\n---\n' && cat RULES.md"
+  },
+  "dependencies": {
+    "gitclaw": "latest"
+  }
+}

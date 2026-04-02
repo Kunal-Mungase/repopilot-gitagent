@@ -1,0 +1,15 @@
+spec_version: "0.1.0"
+name: repopilot-gitagent
+version: 0.1.0
+description: "An AI agent that understands repositories, improves documentation, and helps debug issues."
+model:
+  preferred: claude-sonnet-4-5-20250929
+skills:
+  - summarize-repo
+  - generate-readme
+  - debug-helper
+tags:
+  - hackathon
+  - gitagent
+  - developer-tools
+  - open-innovation
