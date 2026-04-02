@@ -43,7 +43,6 @@ Reads errors and suggests likely fixes in a clear way.
 
 ## Project Structure
 repopilot-gitagent/
-
 ├── agent.yaml
 ├── SOUL.md
 ├── RULES.md
